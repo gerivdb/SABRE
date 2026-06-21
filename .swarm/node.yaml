@@ -1,0 +1,11 @@
+# .swarm/node.yaml - Carte d'identite holographique
+# IntentHash: 0xSWARM_NODE_GENOME_20260622
+node:
+  name: SABRE
+  full_name: gerivdb/SABRE
+  url: https://github.com/gerivdb/SABRE
+  layer: L1_CAUSALITY
+  role: "Securite BDCP/WAL"
+  lens: hot
+  phi_cps: 1.0
+  do_not_create: true
